@@ -1,1 +1,2 @@
 # ACM-ICPC-Team
+This C# program determines the maximum number of topics a two-person team can know and how many teams achieve that maximum. The `acmTeam` function compares every pair of people, counts the combined topics they know (using '1' to indicate knowledge), tracks the highest count, and counts how many pairs reach it. The `Main` method reads the number of people and topics, collects their topic knowledge, calls the function, and outputs the maximum topics and number of teams achieving it.
